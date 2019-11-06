@@ -9,5 +9,7 @@ Its First of its kind in Marathwada region of Maharashtra State, India.
 [Smart Aurangabad Hackathon 2020](http://sah.geca.ac.in "SAH's Homepage")
 ### Contact:
 sah@geca.ac.in
+
 Mayur Rahangdale: +91 8668898617
+
 Gauri Vaidya: +91 8208492410
